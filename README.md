@@ -194,6 +194,9 @@ The application will generate logs in the `logs` directory. The log file is name
 2025-11-23 22:31:10 [pool-2-thread-7] INFO  TransferTask - Moved file to completed directory: D:\temp\completed\File_24_165.bin
 ```
 
+> [!NOTE]
+> This java library is build for special usecase to transfer files reliably from local directory to SFTP Server.
+
 ## License
 
 Apache License, Version 2.0
